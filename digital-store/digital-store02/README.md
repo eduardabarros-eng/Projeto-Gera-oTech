@@ -2,7 +2,7 @@
 
 Projeto final de Front-end (Digital College): e-commerce da **Drip Store** feito em **React**, seguindo a documentação e o layout do [repositório base](https://github.com/digitalcollegebr/projeto-digital-store).
 
-**Integrantes:** _[Seu nome]_ (inclua aqui o nome de todos da equipe)
+**Integrantes:** _Maria Eduarda da Silva Barros_Maria Layanne Bezerra da Rocha
 
 ## Páginas
 
